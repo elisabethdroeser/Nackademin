@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSISProjectFT3", "SSISProjectFT3\SSISProjectFT3.dtproj", "{23062250-DB41-5FE2-095C-CF9D3A0E52AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23062250-DB41-5FE2-095C-CF9D3A0E52AB}.Development|Default.ActiveCfg = Development
+		{23062250-DB41-5FE2-095C-CF9D3A0E52AB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC06C573-CFED-4183-8740-9D2DBA0898B1}
+	EndGlobalSection
+EndGlobal
