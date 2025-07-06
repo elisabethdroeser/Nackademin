@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIS_NYServiceRequests", "SSIS_NYServiceRequests\SSIS_NYServiceRequests.dtproj", "{13B7E88E-ED2E-FDDD-101B-F33EFCAC6E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B7E88E-ED2E-FDDD-101B-F33EFCAC6E31}.Development|Default.ActiveCfg = Development
+		{13B7E88E-ED2E-FDDD-101B-F33EFCAC6E31}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D87D2DD-95A0-4A4A-AACC-02B00DE43FD4}
+	EndGlobalSection
+EndGlobal
