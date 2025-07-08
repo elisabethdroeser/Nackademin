@@ -1,0 +1,7 @@
+C:\Users\elisa\source\repos\GarageSimple-main\Garage\bin\Debug\Garage.exe.config
+C:\Users\elisa\source\repos\GarageSimple-main\Garage\bin\Debug\Garage.exe
+C:\Users\elisa\source\repos\GarageSimple-main\Garage\bin\Debug\Garage.pdb
+C:\Users\elisa\source\repos\GarageSimple-main\Garage\obj\Debug\MyGarage.csproj.AssemblyReference.cache
+C:\Users\elisa\source\repos\GarageSimple-main\Garage\obj\Debug\MyGarage.csproj.CoreCompileInputs.cache
+C:\Users\elisa\source\repos\GarageSimple-main\Garage\obj\Debug\Garage.exe
+C:\Users\elisa\source\repos\GarageSimple-main\Garage\obj\Debug\Garage.pdb
